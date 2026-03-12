@@ -1,59 +1,42 @@
-# <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ruzimurat;Web+Developer;Flutter+Developer;Learning+AI+and+Automation&center=true&width=500&height=50">
-</p>
-💻  Software Developer
-🌍 From Kazakhstan
+<h1 align="center">Hi 👋, I'm Ruzimurat</h1>
 
-I am interested in programming, web development, and mobile application development. I enjoy building websites, applications, and automation systems while continuously learning new technologies.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;Flutter+Developer;Learning+AI+and+Automation">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ruzimurattoshpulatov&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 ## 🚀 Skills
 
-Programming Languages:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,flutter,git,github,vscode" />
+</p>
 
-* Python (Beginner)
-* C++
-* JavaScript
+---
 
-Web Development:
+## 📊 GitHub Stats
 
-* HTML
-* CSS
+<p align="center">
 
-Mobile Development:
+<img src="https://github-readme-stats.vercel.app/api?username=ruzimurattoshpulatov&show_icons=true&theme=tokyonight"/>
 
-* Flutter
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruzimurattoshpulatov&theme=tokyonight"/>
 
-Automation:
+</p>
 
-* n8n
+---
 
-Design & Tools:
+## 🐍 Contribution Snake
 
-* Canva (Pro Level)
-* Microsoft Word
-* Microsoft Excel
+![snake gif](https://github.com/ruzimurattoshpulatov/ruzimurattoshpulatov/blob/output/github-contribution-grid-snake.svg)
 
-## 🛠 What I Can Do
-
-* Build websites using HTML, CSS, and JavaScript
-* Create mobile applications with Flutter
-* Build automation workflows using n8n
-* Design graphics and presentations using Canva
-* Work with documents and spreadsheets (Word & Excel)
-
-## 📚 Currently Learning
-
-* Advanced Python
-* Flutter Development
-* JavaScript
-* Automation Systems (n8n)
-
-## 🎯 Goals
-
-* Become a strong Full Stack Developer
-* Build useful websites and applications
-* Launch my own technology projects
+---
 
 ## 📫 Contact
 
-GitHub: https://github.com/ruzimurattoshpulatov
+GitHub:
+https://github.com/ruzimurattoshpulatov
